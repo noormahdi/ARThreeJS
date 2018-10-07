@@ -1,0 +1,14 @@
+{
+  "name": "mythreejsapp",
+  "version": "1.0.0",
+  "description": "three js learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Noor Mahdi",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.97.0"
+  }
+}
